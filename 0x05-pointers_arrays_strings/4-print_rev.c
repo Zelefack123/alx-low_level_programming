@@ -2,7 +2,7 @@
 /**
  * _putchar - writes the character to stdout
  * @s:used to reference
- *Return: 0
+ * Return: 0
  */
 void print_rev(char *s)
 {
