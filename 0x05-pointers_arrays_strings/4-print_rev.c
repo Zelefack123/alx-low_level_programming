@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _putchar - writes the character to stdout
+ * print_rev - writes the character to stdout
  * @s: used to reference
  * Return: 0
  */
